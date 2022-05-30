@@ -1,2 +1,2 @@
 # Rust
-Programs for learning and experience in rust
+Programs specifically for learning and working experience in rust
